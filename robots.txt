@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://staxlerse.github.io/sitemap.html.gz
+Sitemap: https://staxlerse.github.io/app/sitemap.html.gz
+Sitemap: https://staxlerse.github.io/assets/sitemap.html.gz
+Sitemap: https://staxlerse.github.io/css/sitemap.html.gz
+Sitemap: https://staxlerse.github.io/includes/sitemap.html.gz
+Sitemap: https://staxlerse.github.io/item/sitemap.html.gz
+Sitemap: https://staxlerse.github.io/src/sitemap.html.gz
